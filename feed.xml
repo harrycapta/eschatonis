@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[Eschatonis]]></title>
+    <link>https://eschatonis.com/</link>
+    <atom:link href="https://eschatonis.com/escha.xml" rel="self" type="application/rss+xml"/>
+    <description><![CDATA[<p>Un podcast sulla fine dei tempi. Riflessioni minuscole.</p>]]></description>
+    <generator>Eschatonis</generator>
+    <lastBuildDate>Fri, 08 Mar 2024 11:00:06 GMT</lastBuildDate>
+    <language>it</language>
+    <copyright><![CDATA[Perculato]]></copyright>
+    <podcast:locked owner="harrycapta@gmail.com">yes</podcast:locked>
+    <itunes:image href="https://eschatonis.com/assets/escha.png"/>
+    <podcast:guid>232035ca-c416-5bbc-be41-b40649bd156b</podcast:guid>
+    <image>
+      <url>https://eschatonis.com/escha.png</url>
+      <title>Eschatonis</title>
+      <link>https://eschatonis.com/</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <podcast:license>CC Perculato 2024</podcast:license>
+    <itunes:author>Perculato</itunes:author>
+    <itunes:owner>
+      <itunes:name>Perculato</itunes:name>
+      <itunes:email>harrycapta@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Arts"/>
+    
+    <item>
+      <title><![CDATA[L'arte del combattimento e dell'illuminazione: Bruce Lee ed il potere della flessibilità]]></title>
+      <itunes:title><![CDATA[L'arte del combattimento e dell'illuminazione: Bruce Lee ed il potere della flessibilità]]></itunes:title>
+      <description><![CDATA[<p>Bruce Lee era un maestro di arti marziali che credeva nella fluidità e nell'adattamento come chiavi per il successo nel combattimento. Il suo approccio, basato sul prospettivismo di Nietzsche, considerava i sistemi come strumenti da utilizzare per raggiungere obiettivi personali, piuttosto che dogmi da seguire rigidamente. Le lezioni di Lee sulle arti marziali si estendono ben oltre il combattimento. La sua enfasi sulla flessibilità mentale ci insegna come la rigidità possa limitare la nostra capacità di adattamento alle diverse situazioni. In un mondo in continua evoluzione, la capacità di essere come l'acqua – flessibili e adattabili – è fondamentale per superare gli ostacoli e raggiungere i nostri obiettivi.</p>]]></description>
+      <link>https://eschatonis.com/ep/S1E01.wav</link>
+      <enclosure url="https://eschatonis.com/ep/S1E01.wav" length="1767593" type="audio/mpeg"/>
+      <guid isPermaLink="false">64d2d8cd-234f-45e4-9f1c-82bba943f460</guid>
+      <itunes:duration>110</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 08 Mar 2024 11:00:06 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[L'onore nella cultura teutonica: coraggio, virilità e lealtà]]></title>
+      <itunes:title><![CDATA[L'onore nella cultura teutonica: coraggio, virilità e lealtà]]></itunes:title>
+      <description><![CDATA[<p>In questo episodio del podcast, ci immergeremo nella cultura teutonica e nei tre pilastri su cui si basava il concetto di onore: coraggio, virilità/mascolinità e lealtà. Questi principi rappresentavano un paradigma sociale che permeava ogni aspetto della vita, fungendo da metro di misura del valore di un uomo.</p>]]></description>
+      <link>https://eschatonis.com/ep/S1E02.wav</link>
+      <enclosure url="https://eschatonis.com/ep/S1E02.wav" length="250000" type="audio/mpeg"/>
+      <guid isPermaLink="false">64d2d8cd-234f-45e4-9f1c-82bba943f460</guid>
+      <itunes:duration>250</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 08 Mar 2024 12:30:06 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
